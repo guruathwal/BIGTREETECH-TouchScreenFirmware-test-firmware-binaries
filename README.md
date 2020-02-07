@@ -1,7 +1,7 @@
 ### Test firmware binaries for BTT TFT24 / TFT28 / TFT35 variants
 #### :warning: Not for production use. Firmwares in this repository are only for testing purpose. These may contains bugs.
 
-#### :heavy_exclamation_mark: Always update the fonts and icons from this repository only when flashing the firmware.
+#### :heavy_exclamation_mark: Always update the fonts and icons only from this repository when flashing the firmware.
 
 ---
 **Change Log:**
